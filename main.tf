@@ -6,7 +6,7 @@ locals {
   ]
 }
 
-output "valid_ips" {
-  value = local.valid_ips
-}
+#output "valid_ips" {
+#  value = local.valid_ips
+#}
 
