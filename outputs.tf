@@ -1,5 +1,5 @@
 # outputs.tf
 
-output "valid_ips" {
+output "towerips" {
   value = local.valid_ips
 }
